@@ -1,0 +1,6 @@
+
+pip install terminal_banner
+pip install color-terminal
+pip install print-color
+pip install terminal-img
+
